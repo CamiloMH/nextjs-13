@@ -5,7 +5,6 @@ import styles from "./page.module.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
-  const a = 2;
   return (
     <main className={styles.main}>
       <div className={styles.description}>
